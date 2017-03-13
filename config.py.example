@@ -1,0 +1,10 @@
+
+#Dash button mac address
+mac = '123456789abc'
+
+#ID of user logged in 
+uid = 'myname'
+
+#MP3 soundfile
+soundfile = './something.mp3'
+
